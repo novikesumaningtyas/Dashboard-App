@@ -1,3 +1,13 @@
+# This app
+
+This app is for my practice using:
+- React
+- Typescript
+- Redux
+- Hooks
+
+User can create an application by filling the forms
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
